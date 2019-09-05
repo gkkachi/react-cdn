@@ -2,7 +2,7 @@
   "scripts": {
     "tsc": "tsc",
     "build": "webpack",
-    "start": "webpack --watch & webpack-dev-server"
+    "start": "bash start.sh"
   },
   "devDependencies": {
     "@types/react": "^16.9.2",
